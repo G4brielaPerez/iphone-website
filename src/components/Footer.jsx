@@ -1,4 +1,3 @@
-import { div } from "three/examples/jsm/nodes/Nodes.js"
 import { footerLinks } from "../constants"
 
 
